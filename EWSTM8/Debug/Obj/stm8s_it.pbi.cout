@@ -1,18 +1,18 @@
-"G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\User\stm8s_it.c"
+"G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\User\stm8s_it.c"
 -std=c99
 -ferror-limit=100
 -I
-G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\EWSTM8\..\Lib\inc
+G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\EWSTM8\..\Lib\inc
 -I
-G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\EWSTM8\..\User
+G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\EWSTM8\..\User
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc\c
 -I
-G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\Lib\inc
+G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\Lib\inc
 -I
-G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\User
+G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\User
 -DSTM8S003=1
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff

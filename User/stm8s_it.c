@@ -158,6 +158,7 @@ INTERRUPT_HANDLER(EXTI_PORTD_IRQHandler, 6)
      it is recommended to set a breakpoint on the following instruction.
   */
   if(GPIO_ReadInputPin(GPIOD,GPIO_PIN_3)==RESET){
+    GPIO_Init(GPIOD,GPIO_PIN_2,GPIO_MODE_OUT_OD_HIZ_SLOW);
     while(GPIO_ReadInputPin(GPIOD,GPIO_PIN_3)==RESET)
       {
       int_stt=1; 

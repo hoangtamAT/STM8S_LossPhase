@@ -16,54 +16,42 @@
       </Build>
       <Workspace>
         <ColumnWidths>
-          <Column0>195</Column0>
+          <Column0>124</Column0>
           <Column1>27</Column1>
           <Column2>27</Column2>
           <Column3>27</Column3>
         </ColumnWidths>
       </Workspace>
       <TerminalIO/>
-      <Select-Ambiguous-Definitions>
-        <ColumnWidth0>440</ColumnWidth0>
-        <ColumnWidth1>62</ColumnWidth1>
-        <ColumnWidth2>754</ColumnWidth2>
-      </Select-Ambiguous-Definitions>
     </Static>
     <Windows>
-      <Wnd0>
+      <Wnd2>
         <Tabs>
           <Tab>
-            <Identity>TabID-6254-17163</Identity>
+            <Identity>TabID-410-19283</Identity>
             <TabName>Build</TabName>
             <Factory>Build</Factory>
             <Session/>
           </Tab>
-          <Tab>
-            <Identity>TabID-4317-28030</Identity>
-            <TabName>Ambiguous Definitions</TabName>
-            <Factory>Select-Ambiguous-Definitions</Factory>
-            <Session/>
-          </Tab>
         </Tabs>
         <SelectedTab>0</SelectedTab>
-      </Wnd0>
-      <Wnd1>
+      </Wnd2>
+      <Wnd3>
         <Tabs>
           <Tab>
-            <Identity>TabID-17003-17166</Identity>
+            <Identity>TabID-11158-19286</Identity>
             <TabName>Workspace</TabName>
             <Factory>Workspace</Factory>
             <Session>
               <NodeDict>
                 <ExpandedNode>LossPhase_Uart_st8s</ExpandedNode>
-                <ExpandedNode>LossPhase_Uart_st8s/Lib</ExpandedNode>
                 <ExpandedNode>LossPhase_Uart_st8s/User</ExpandedNode>
               </NodeDict>
             </Session>
           </Tab>
         </Tabs>
         <SelectedTab>0</SelectedTab>
-      </Wnd1>
+      </Wnd3>
     </Windows>
     <Editor>
       <Pane>
@@ -73,76 +61,17 @@
         </Tab>
         <Tab>
           <Factory>TextEditor</Factory>
-          <Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\stm8\inc\c\string.h</Filename>
+          <Filename>$WS_DIR$\..\User\main.c</Filename>
           <XPos>0</XPos>
           <YPos>0</YPos>
           <SelStart>0</SelStart>
           <SelEnd>0</SelEnd>
           <XPos2>0</XPos2>
-          <YPos2>179</YPos2>
-          <SelStart2>7028</SelStart2>
-          <SelEnd2>7028</SelEnd2>
+          <YPos2>42</YPos2>
+          <SelStart2>1742</SelStart2>
+          <SelEnd2>1742</SelEnd2>
         </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\Lib\inc\stm8s_uart1.h</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>0</SelStart>
-          <SelEnd>0</SelEnd>
-          <XPos2>0</XPos2>
-          <YPos2>111</YPos2>
-          <SelStart2>5500</SelStart2>
-          <SelEnd2>5513</SelEnd2>
-        </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\Lib\src\stm8s_uart1.c</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>0</SelStart>
-          <SelEnd>0</SelEnd>
-          <XPos2>0</XPos2>
-          <YPos2>551</YPos2>
-          <SelStart2>18426</SelStart2>
-          <SelEnd2>18426</SelEnd2>
-        </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\Lib\inc\stm8s_exti.h</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>0</SelStart>
-          <SelEnd>0</SelEnd>
-          <XPos2>0</XPos2>
-          <YPos2>18</YPos2>
-          <SelStart2>482</SelStart2>
-          <SelEnd2>482</SelEnd2>
-        </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\Lib\inc\stm8s.h</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>0</SelStart>
-          <SelEnd>0</SelEnd>
-          <XPos2>0</XPos2>
-          <YPos2>2724</YPos2>
-          <SelStart2>117522</SelStart2>
-          <SelEnd2>117528</SelEnd2>
-        </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\Lib\inc\stm8s_gpio.h</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>0</SelStart>
-          <SelEnd>0</SelEnd>
-          <XPos2>0</XPos2>
-          <YPos2>41</YPos2>
-          <SelStart2>2737</SelStart2>
-          <SelEnd2>2762</SelEnd2>
-        </Tab>
+        <ActiveTab>1</ActiveTab>
         <Tab>
           <Factory>TextEditor</Factory>
           <Filename>$WS_DIR$\..\User\stm8s_it.c</Filename>
@@ -151,23 +80,10 @@
           <SelStart>0</SelStart>
           <SelEnd>0</SelEnd>
           <XPos2>0</XPos2>
-          <YPos2>141</YPos2>
-          <SelStart2>4878</SelStart2>
-          <SelEnd2>4878</SelEnd2>
+          <YPos2>138</YPos2>
+          <SelStart2>4810</SelStart2>
+          <SelEnd2>4810</SelEnd2>
         </Tab>
-        <Tab>
-          <Factory>TextEditor</Factory>
-          <Filename>$WS_DIR$\..\User\main.c</Filename>
-          <XPos>0</XPos>
-          <YPos>0</YPos>
-          <SelStart>0</SelStart>
-          <SelEnd>0</SelEnd>
-          <XPos2>0</XPos2>
-          <YPos2>23</YPos2>
-          <SelStart2>1904</SelStart2>
-          <SelEnd2>1904</SelEnd2>
-        </Tab>
-        <ActiveTab>8</ActiveTab>
       </Pane>
       <ActivePane>0</ActivePane>
       <Sizes>
@@ -182,9 +98,9 @@
       <Top>
         <Row0>
           <Sizes>
-            <Toolbar-0472AAE0>
+            <Toolbar-05EABA08>
               <key>iaridepm.enu1</key>
-            </Toolbar-0472AAE0>
+            </Toolbar-05EABA08>
           </Sizes>
         </Row0>
         <Row1>
@@ -197,22 +113,22 @@
       <Left>
         <Row0>
           <Sizes>
-            <Wnd1>
+            <Wnd3>
               <Rect>
                 <Top>-2</Top>
                 <Left>-2</Left>
-                <Bottom>622</Bottom>
-                <Right>269</Right>
+                <Bottom>708</Bottom>
+                <Right>198</Right>
                 <x>-2</x>
                 <y>-2</y>
-                <xscreen>271</xscreen>
-                <yscreen>286</yscreen>
-                <sizeHorzCX>211719</sizeHorzCX>
-                <sizeHorzCY>300736</sizeHorzCY>
-                <sizeVertCX>211719</sizeVertCX>
-                <sizeVertCY>656151</sizeVertCY>
+                <xscreen>200</xscreen>
+                <yscreen>200</yscreen>
+                <sizeHorzCX>156250</sizeHorzCX>
+                <sizeHorzCY>210305</sizeHorzCY>
+                <sizeVertCX>156250</sizeVertCX>
+                <sizeVertCY>746583</sizeVertCY>
               </Rect>
-            </Wnd1>
+            </Wnd3>
           </Sizes>
         </Row0>
       </Left>
@@ -224,22 +140,22 @@
       <Bottom>
         <Row0>
           <Sizes>
-            <Wnd0>
+            <Wnd2>
               <Rect>
                 <Top>-2</Top>
                 <Left>-2</Left>
-                <Bottom>284</Bottom>
+                <Bottom>198</Bottom>
                 <Right>1282</Right>
                 <x>-2</x>
                 <y>-2</y>
                 <xscreen>1284</xscreen>
-                <yscreen>286</yscreen>
+                <yscreen>200</yscreen>
                 <sizeHorzCX>1003125</sizeHorzCX>
-                <sizeHorzCY>300736</sizeHorzCY>
-                <sizeVertCX>211719</sizeVertCX>
-                <sizeVertCY>300736</sizeVertCY>
+                <sizeHorzCY>210305</sizeHorzCY>
+                <sizeVertCX>156250</sizeVertCX>
+                <sizeVertCY>210305</sizeVertCY>
               </Rect>
-            </Wnd0>
+            </Wnd2>
           </Sizes>
         </Row0>
       </Bottom>

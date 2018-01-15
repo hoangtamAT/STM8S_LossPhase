@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\EWSTM8\settings\LossPhase_Uart_st8s.Debug.general.xcl" --backend -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\EWSTM8\settings\LossPhase_Uart_st8s.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\EWSTM8\settings\LossPhase_Uart_st8s.Debug.general.xcl" --backend -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\EWSTM8\settings\LossPhase_Uart_st8s.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\EWSTM8\settings\LossPhase_Uart_st8s.Debug.general.xcl" "--debug_file=%~1" --backend -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\EWSTM8\settings\LossPhase_Uart_st8s.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\common\bin\cspybat" -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\EWSTM8\settings\LossPhase_Uart_st8s.Debug.general.xcl" "--debug_file=%~1" --backend -f "G:\TAM\K\ARM\STM8\PROJECT\LossPhase_UART_STM8s\STM8S_LossPhase\EWSTM8\settings\LossPhase_Uart_st8s.Debug.driver.xcl" 
 
 @echo off 
 :end
